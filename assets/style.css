@@ -1,0 +1,143 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.head_stickman {
+    background-color: black;
+    width: 250px;
+    height: 150px;
+    border-radius: 100%;
+    margin: auto;
+    position: relative;
+    top: 20px;
+}
+.left-eye {
+    width: 30px;
+    height: 30px;
+    top: 25px;
+    left: 60px;
+    background-color: white;
+    border-radius: 50%;
+    position: absolute;
+}
+.right-eye {
+    width: 30px;
+    height: 30px;
+    top: 25px;
+    right: 60px;
+    background-color: white;
+    border-radius: 50%;
+    position: absolute;
+}
+.mouth {
+    width: 150px;
+    height: 20px;
+    background-color: white;
+    border-radius: 100px;
+    top: 90px;
+    left: 45px;
+    position: absolute;
+}
+.body_stickman {
+    background-color: black;
+    height: 300px;
+    width: 100px;
+    margin: auto;
+    bottom: 440px;
+    position: absolute;
+    left: 910px;
+}
+.button1 {
+    width: 40px;
+    height: 40px;
+    background-color: white;
+    border-radius: 50%;
+    position: absolute;
+    left: 30px;
+    top: 20px;
+}
+.button2 {
+    width: 40px;
+    height: 40px;
+    background-color: white;
+    border-radius: 50%;
+    position: absolute;
+    left: 30px;
+    top: 80px;
+}
+.button3 {
+    width: 40px;
+    height: 40px;
+    background-color: white;
+    border-radius: 50%;
+    position: absolute;
+    left: 30px;
+    top: 140px;
+}
+.left-arm {
+    background-color: black;
+    position: absolute;
+    height: 20px;
+    width: 200px;
+    border-radius: 100px;
+    top: 200px;
+    left: 600px;
+}
+.right-arm {
+    background-color: black;
+    position: absolute;
+    height: 20px;
+    width: 200px;
+    border-radius: 100px;
+    top: 200px;
+    right: 600px;
+}
+.red {
+    background-color: red;
+    width: 90px;
+    height: 40px;
+    position: absolute;
+    right: 547px;
+    top: 110px;
+}
+.green {
+    width: 30px;
+    height: 90px;
+    position: absolute;
+    right: 580px;
+    top: 150px;
+    background-color: green;
+}
+.left-leg {
+    background-color: black;
+    position: absolute;
+    height: 300px;
+    width: 20px;
+    top: 520px;
+    left: 850px;
+}
+.left-foot {
+    background-color: black;
+    position: absolute;
+    height: 20px;
+    width: 80px;
+    top: 850px;
+    left: 750px;
+}
+.right-leg {
+    background-color: black;
+    position: absolute;
+    height: 300px;
+    width: 20px;
+    top: 520px;
+    right: 850px;
+}
+.right-foot {
+    background-color: black;
+    position: absolute;
+    height: 20px;
+    width: 80px;
+    top: 850px;
+    right: 750px;
+}
+
